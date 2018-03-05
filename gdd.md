@@ -33,7 +33,7 @@ The Hero's Journey
 Striving for Excellence/Mastery/Perfection
 Flow
 Liberation (in the literal and spiritual sense)
-Acceptance (of self, an by society)
+Acceptance (of self, and by society)
 The meaning of a Champion
 
 ### Story Progression
@@ -44,8 +44,24 @@ The meaning of a Champion
 
 #### Goals 
 
+##### Overall:
+- Find and punish those who killed Roarke's master using Roarke's skills as an enforcer, bodyguard and swordsman.
+
+##### Short-Term: 
+- Clear every level as efficiently and quickly as possible.
+- Breather levels involve searching for evidence and speaking to witnesses, Roarke's allies, and others involved in the story. This will be the primary means i think of revealing more of the story. When a player is fighting, I want them focused on fighting.
+
 
 #### User Skills
+PATIENCE
+Determination
+Resilience
+Quick Reflexes
+Decisiveness
+Comfort with/or willingness to learn to play with either a modern controller, or with mouse/keyboard
+Resource management
+Situational awareness
+Timing, rhythm
 
 
 #### Game Mechanics
@@ -101,3 +117,5 @@ The meaning of a Champion
 ### Localization
 
 ### Other Ideas
+- Time attack mode?
+- Survival mode (you vs a steadily increasing amount of mooks in a battle arena made for this mode)
