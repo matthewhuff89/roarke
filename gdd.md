@@ -98,6 +98,8 @@ Timing, rhythm
 
 - Running out of time: I want there to be a sense of urgency as players go through levels. Keep moving forward or risk failing your mission by allowing the culprits to escape.
 
+- More of a presentation thing but still related: Thinking that when a player fails a level and returns to the beginning of a level, it'll be justified as 'Roarke was doing image training'. Screen after a game over is Roarke startling awake from a meditative stance, shaking his head and getting up. I kind of like that, just to keep some since of narrative consistency instead of just hand-waving 'it's a video game, you know what it is'. Seems more interesting to me and reveals more about Roarke's character. 
+
 ### Art Style 
 
 
