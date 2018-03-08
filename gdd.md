@@ -37,7 +37,9 @@ Acceptance (of self, and by society)
 The meaning of a Champion
 
 ### Story Progression
-
+The game starts right in the action. 
+Level 1: Same Shit, Different Day - Roarke is working a job for his client when a rival group of gangsters shows up and attacks the compound. Roarke puts them all down.
+Level 2: Windscar - Roarke practices his skills at his master's dojos against his fellow disciples in an all vs one battle. He's promoted to the next rank and is given the title, 'Windscar' to befit his new rank. That night, his Master is killed and he's informed.
 
 ### Gameplay
 
@@ -115,8 +117,12 @@ Timing, rhythm
 ### Demographics
 
 ### Platforms & Monetization
+- I guess Steam. But is that really necessary? Then again, I get all my games on Steam, but it's NOT where I actually hear about the games I buy.
+- Definitely Windows/Mac/Linux.
+- It'd be cool to port this to other systems if things go well, but that's thinking way too far ahead.
 
 ### Localization
+- English. If this ends up being a success, then yeah, let's get some more languages going.
 
 ### Other Ideas
 - Time attack mode?
