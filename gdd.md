@@ -36,12 +36,12 @@ Almost singlehandedly changes perception of orcish in the eyes of the West throu
 (I may make this more simple. I dunno.)
 
 ### Theme
-The Hero's Journey
-Striving for Excellence/Mastery/Perfection
-Flow
-Liberation (in the literal and spiritual sense)
-Acceptance (of self, and by society)
-The meaning of a Champion
+- The Hero's Journey
+- Striving for Excellence/Mastery/Perfection
+- Flow
+- Liberation (in the literal and spiritual sense)
+- Acceptance (of self, and by society)
+- The meaning of a Champion
 
 ### Story Progression
 The game starts right in the action. 
@@ -70,15 +70,15 @@ Level 2: Windscar - Roarke practices his skills at his master's dojos against hi
 
 
 #### User Skills
-PATIENCE
-Determination
-Resilience
-Quick Reflexes
-Decisiveness
-Comfort with/or willingness to learn to play with either a modern controller, or with mouse/keyboard
-Resource management
-Situational awareness
-Timing, rhythm
+- PATIENCE
+- Determination
+- Resilience
+- Quick Reflexes
+- Decisiveness
+- Comfort with/or willingness to learn to play with either a modern controller, or with mouse/keyboard
+- Resource management
+- Situational awareness
+- Timing, rhythm
 
 
 #### Game Mechanics
