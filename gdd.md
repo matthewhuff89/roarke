@@ -47,9 +47,9 @@ Almost singlehandedly changes perception of orcish in the eyes of the West throu
 The game starts right in the action. 
 
 #### Departure:
-Introduction Phase:
-Level 1: Same Shit, Different Day - Roarke is working a job for his client when a rival group of gangsters shows up and attacks the compound. Roarke puts them all down.
-Level 2: Windscar - Roarke practices his skills at his master's dojos against his fellow disciples in an all vs one battle. He's promoted to the next rank and is given the title, 'Windscar' to befit his new rank. That night, his Master is killed and he's informed.
+##### Introduction Phase:
+- Level 1: Same Shit, Different Day - Roarke is working a job for his client when a rival group of gangsters shows up and attacks the compound. Roarke puts them all down.
+- Level 2: Windscar - Roarke practices his skills at his master's dojos against his fellow disciples in an all vs one battle. He's promoted to the next rank and is given the title, 'Windscar' to befit his new rank. That night, his Master is killed and he's informed.
 
 #### Initiation:
 
