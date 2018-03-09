@@ -19,7 +19,15 @@ A hardcore tactical action game where the primary goal is to use Roarke's dashin
 - Taught him the sword because he believed he'd do something good and beautiful with it.
 - Earned the title 'Typhoon' when he ascended to Adept-class in the Stormsword-style, and held on to it instead of taking on a new name upon reaching Master-class. He says it was out of humility, to remember that he is but a student. In reality he just thought it made for a badass name. Everyone knows it but doesn't say anything. His humor and zest for life is appreciated by his students. 
 
-#### Roarke's Boss (to be named)
+#### Miranda IV
+- A young, wealthy, elf lady.
+- Roarke's boss. After hearing of his exploits in Sector O on the freelance circuit, and his incredible powers of perception, formidablee martial arts skills, and the surprisingly rare ability to hold a decent conversation, offered him full-time employment with salary and benefits. 
+- During Roarke's first year on the job, he thwarted an attack on her life (more like a full blown assault), and lost his arm in the fight, but gained her respect and gratitude.
+- Ruthless, with her hands in both legal and illegal enterprise
+- Surprisingly enlightened. Has seen enough carnage and suffering to understand what binds all living beings.
+- Because of her outlook and her pragmatism, she's formed a bond with Roarke despite his heritage due to his intelligence and skill having saved her life multiple times.
+- Enjoys drinking with Roarke, and discussing fine art with him as he has viewpoint and an attention for detail that makes for good conversation.
+
 #### The Orcs and Half-Orcs of 'O' Sector
 #### Androids & Golems
 #### Elves
