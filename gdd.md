@@ -1,6 +1,6 @@
-##### Roarke Game Design Document
+# Roarke Game Design Document
 
-### Project Description
+## Project Description
 A hardcore tactical action game where the primary goal is to use Roarke's dashing slash to cut your way through levels as quickly and efficiently as possible.
 
 ## Characters
@@ -55,9 +55,37 @@ Almost singlehandedly changes perception of orcish in the eyes of the West throu
 The game starts right in the action. 
 
 #### Departure:
-##### Introduction Phase:
+##### Introduction and Call To Adventure:
 - Level 1: Same Shit, Different Day - Roarke is working a job for his client when a rival group of gangsters shows up and attacks the compound. Roarke puts them all down.
 - Level 2: Windscar - Roarke practices his skills at his master's dojos against his fellow disciples in an all vs one battle. He's promoted to the next rank and is given the title, 'Windscar' to befit his new rank. That night, his Master is killed and he's informed.
+
+*A sorrowful shower breaks out over Sector O*
+*Game title "Roarke" appears on screen*
+
+##### Refusal of the Call:
+- Level 3: Grief - Roarke immerses himself further in his works. Asks for more work from his boss, who is amused and curious given what she knows about him. She obliges with a smile on her face, and sends him to punish a rival who has been disruptiing operations for months. Roarke attacks an enemy compound and wipes out a large group of enemies before being shot down and extracted by his fellow enforcers. 
+
+##### Supernatural Aid
+- Interlude - "Kill Em All, Roarke": Recovering from the battle...Roarke goes to a jazz club and gets drunk. Really drunk. Wallowing in his sorrow, Miranda corners him. 
+"Get your shit together." They talk for a while, until he admits that he's hurting bad at the loss of his master. Miranda has to get him good and hammered and pry as kindly as she can to even get him to admit that. 
+"So my friend...what do you want to do?"
+"I want to find out why it happened, who did it, and fucking tear them limb from limb."
+"My man. Well, don't let me hold you back. I'm giving you a non-negotiable vacation to go and handle your shit."
+"What? What about..."
+"I can take care of myself love. I could use a vacation myself anyway from all this fucked up shit. And to be honest, i've got a really bad feeling. May be connected to what happened to your master. So don't go thinking i've all of a sudden gone and grown a conscience. I need my champion back to 100%, so go, handle your shit."
+Miranda opens a portal and pulls something out. It's a sword, with an elegant handle, and a silver sheath with clouds and lightning bolts tastefully etched into it. She hands it to Roarke.
+"Take it. It's an elven longsword I had crafted for you. It just happened to be finished recently. Forged using a special metal, enchanted with wind and lightning magic to strengthen your Stormsword techniques, and vibrating nanomachines line the blade to increase it's cutting power. This thing is so badass, a man like you should be able to deflect bullets and energy blasts with it."
+"!!!!"
+Roarke stands up, draws it, swings it a few times, nods, and sheathes it. 
+"Yeah, this will work."
+"Kill em all Roarke."
+"Obviously."
+
+*Another storm starts. This one is a full blown thunderstorm. Raging and triumphant, like Zeus himself approves of Roarke's resolve. Lightning strikes across the City*
+
+##### Crossing the First Threshold and the Belly of the Whale
+- Level 4: Roarke goes to his master's house and breaks in...he investigates for a bit, and finds a secret room, that seems to have been made for one of his Adepts to find in case of his passing. Roarke discovers his master had been tracking and battling a conspiracy seeking to destroy Sector O to make room for new development and greatly weaken if not outright destroy the Orcish community in the City. A move that would likely affect Orcish life for the whole continent as many orcs take what they earn in the City and send it to their families or otherwise inspire others in the land. As Roarke takes his master's journal, he hears an explosion and smells smokes. His senses perk up and he feels the presence of assault mechs and golems in the building. He fights his way out of the burning building before it's completely demolished, along with the attached Dojo.
+- Level 5: Shocked at the brazenness and cruelty of the conspiracy of he's discovered, Roarke resolves to keep following his Master's footsteps for the time being and understand what happened to him...no sooner does he think this to himself before he hears multiple explosions and looks out of his apartment view to see the slums of Sector O burning. Roarke feels a burning desire to help, and to see what happened and rushes to the area. It's bad. It's damn near nonsensical. A force of orcish mercenaries and androids are burning down tents and shacks and killing anyone that gets in their way. It's almost comically evil. Roarke feels his body get hot. Electric. The Storm fills Roarke's mind and body, and he rushes into the fray. Roarke slashes across the slums like a hurricane and kills all of the mercs and machines in an effort to protect the people from further loss of life and property. Covered in blood and oil, Roarke is shocked at his core by what's happening. Not the violence, he's done his share of dirt, but never at the expense of civilians and everyday people trying to get by. It's the raw suffering around him. The cruelty of the attack. A female orc rushes out and hugs him and thanks him crying. He's never been thanked like this before. Especially for wiping out a small army. It feels good. Roarke has a lot to think about after this.
 
 #### Initiation:
 
