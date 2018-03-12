@@ -153,10 +153,15 @@ Roarke stands up, draws it, swings it a few times, nods, and sheathes it.
 
 - More of a presentation thing but still related: Thinking that when a player fails a level and returns to the beginning of a level, it'll be justified as 'Roarke was doing image training'. Screen after a game over is Roarke startling awake from a meditative stance, shaking his head and getting up. I kind of like that, just to keep some since of narrative consistency instead of just hand-waving 'it's a video game, you know what it is'. Seems more interesting to me and reveals more about Roarke's character. 
 
-### Art Style 
-
-
 ### Music and Sounds 
+#### Music
+- Rock
+- Jazz
+- EDM
+
+#### Sounds
+- I want it to sound good? 
+- Consult Christophe.
 
 
 ### Technical Description
