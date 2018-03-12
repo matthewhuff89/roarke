@@ -129,6 +129,16 @@ Roarke stands up, draws it, swings it a few times, nods, and sheathes it.
 - I think this deserves a reward. This feeling right here is what all players of *Roarke* should seek. I want to encourage this behavior whenever possible.
 - I'll think about what the reward for a Perfect Storm should be.
 
+##### Roarke 'Solarstorm'/'Starslasher'/'Starstorm' (This is just theorycrafting)
+- The final chapters of the game will see Roarke adopting a new title to go along with a newly acquired power. The elves' God of Stars blesses Roarke at the behest of Miranda, and grants him access to the Solar element and a starsaber.
+- In terms of gameplay, i've got a few ideas for how i want this to be reflected:
+- 1. Roarke's dash attack animation changes and the speed of the attacks increases greatly. He turns into a beam of light and passes through the enemy and reforms.
+- 2. He gains the ability to do this without rest or cost to his stamina. Meaning, a player can use the basic dash attack infinite times without fear of exhaustion. Not only that, but if a user desires (maybe during the further distance slashes) they can cancel and change directions.
+- 3. Roarke's sprite changes. It has a star-like radiance, glowing eyes, and clutching a light sword.
+- 4. I'll give the user a space/playground inside Roarke's visualization space to get acclimated to the change. As I intend to really turn things up to 11 once I give them this power.
+- 5. Roarke is basically a Gold Saint at this point. I'm totally ok with that.
+
+
 ##### Level Timer (Maybe)
 - I'm thinking i'll add a time limit to levels to further force urgency and momentum. Maybe Perfect Storms will extend that timer greatly, while just regular kills extend the timer just a bit.
 
@@ -142,6 +152,7 @@ Roarke stands up, draws it, swings it a few times, nods, and sheathes it.
 - Mega Blaster: Power up that super charges Roarke's arm blaster for increased (double/triple/quad?) damage
 - Storm God's Blessing: Temporarily gives Roarke unlimited Stamina
 - War God's Blessing: Roarke's techniques do greatly increased damage
+- Star God's Blessing: This is permanent. Roarke's damage increases, basic dash attacks don't use Stamina. Attacks take on a burning plasma/light motif as opposed to lightning.
 
 ### Progression and Challenge
 
@@ -158,6 +169,8 @@ Roarke stands up, draws it, swings it a few times, nods, and sheathes it.
 - Rock
 - Jazz
 - EDM
+- Soul
+- Hip hop (A bit trappy?)
 
 #### Sounds
 - I want it to sound good? 
