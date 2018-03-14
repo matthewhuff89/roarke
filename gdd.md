@@ -184,6 +184,9 @@ Roarke stands up, draws it, swings it a few times, nods, and sheathes it.
 
 
 ### Demographics
+- Basically, dudes/ladies like me who like indie games that will challenge their reflexes and determination.
+- People who like action games
+- People who like science-fantasy settings?
 
 ### Platforms & Monetization
 - I guess Steam. But is that really necessary? Then again, I get all my games on Steam, but it's NOT where I actually hear about the games I buy.
