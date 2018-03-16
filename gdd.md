@@ -171,17 +171,24 @@ Roarke stands up, draws it, swings it a few times, nods, and sheathes it.
 - EDM
 - Soul
 - Hip hop (A bit trappy?)
+- Consult Christophe
 
 #### Sounds
 - I want it to sound good? 
-- Consult Christophe.
+- Again, consult Christophe.
 
 
 ### Technical Description
 
 
 ### Marketing & Funding
+- Reddit
+- Kotaku
+- Twitch
+- Youtube
 
+#### Funding
+- I don't REALLY want to try to fund it. Though, I dunno...given that this whole project is an experiment in getting a feel for the game development process, it'd be really fascinating to try and raise some money via Kickstarter to refine the game once i've got the concepts locked in. 
 
 ### Demographics
 - Basically, dudes/ladies like me who like indie games that will challenge their reflexes and determination.
