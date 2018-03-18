@@ -119,7 +119,11 @@ Roarke stands up, draws it, swings it a few times, nods, and sheathes it.
 
 #### Game Mechanics
 ##### The Stormsword (Roarke's Fighting Style)
-- Primary means of attack is a dashing slash that passes through/by enemies while doing damage.
+- Lightning Strike: Primary means of attack - a dashing slash that passes through/by enemies while doing damage. Costs one point of stamina.
+- Hurricane Strike: Roake does a double distance dash strike. Costs two points of stamina.
+- Delta Strike: Roarke dashes around an area in a triangle shape. If the lines connect into a proper triangle, everything within will take heavy damage. Has to be invoked manually by actually using 
+- Bermuda Triangle: If the situation is set up for it. Roarke can create a double sized Delta Strike using three Tornado Slashes and wipe out anything the triangle. I only want this to happen twice, or three times in the game. Twice while he's still 'Windscar', and once when he's become 'Starslasher'. Likely will force it to happen once to clear a stage, the other times will be as a challenge to the player and the only way to invoke a Perfect Storm in pivotal moments of the game. 
+- Void Slash/Solar Flare: Roarke uses all of his stamina to send out a sweeping wave projectile that deals medium ('Void Slash') or heavy ('Solar Flare'). This literally Roarke just letting loose a Windscar like from Inuyasha lololol.
 
 ##### Arm Blaster
 - Roarke's cybernetic arm can fire bolts of plasma at enemies in exchange for using Charge 
@@ -137,6 +141,9 @@ Roarke stands up, draws it, swings it a few times, nods, and sheathes it.
 - 3. Roarke's sprite changes. It has a star-like radiance, glowing eyes, and clutching a light sword.
 - 4. I'll give the user a space/playground inside Roarke's visualization space to get acclimated to the change. As I intend to really turn things up to 11 once I give them this power.
 - 5. Roarke is basically a Gold Saint at this point. I'm totally ok with that.
+- 6. To adjust for Roarke's new power and technical efficiency, there will be more situations that require Advanced Techniques (Double/Triple distance strikes, Delta Strikes, Solar Flares) 
+- 7. TO THINK ABOUT: How does this power synergize with Roarke's cybernetics?
+
 
 
 ##### Level Timer (Maybe)
