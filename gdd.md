@@ -127,6 +127,7 @@ Roarke stands up, draws it, swings it a few times, nods, and sheathes it.
 
 ##### Arm Blaster
 - Roarke's cybernetic arm can fire bolts of plasma at enemies in exchange for using Charge 
+- After Roarke gains the Star God's Blessing, Roarke can use all 3 points of Charge to fire a heavy damage beam that penetrates across the screen. 
 
 ##### Perfect Storms
 - When Roarke clears out an encounter in one flowing movement (no stopping, or without running out the combo timer), all of the enemies fall apart at the same time (think the Bride slicing up all those dudes in Kill Bill, then striking her blade to cease it's vibration and then everyone falls at the same time)
@@ -142,7 +143,7 @@ Roarke stands up, draws it, swings it a few times, nods, and sheathes it.
 - 4. I'll give the user a space/playground inside Roarke's visualization space to get acclimated to the change. As I intend to really turn things up to 11 once I give them this power.
 - 5. Roarke is basically a Gold Saint at this point. I'm totally ok with that.
 - 6. To adjust for Roarke's new power and technical efficiency, there will be more situations that require Advanced Techniques (Double/Triple distance strikes, Delta Strikes, Solar Flares) 
-- 7. TO THINK ABOUT: How does this power synergize with Roarke's cybernetics?
+- 7. Unlocks a power shot for his arm blaster
 
 
 
