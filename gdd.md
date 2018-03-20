@@ -88,8 +88,17 @@ Roarke stands up, draws it, swings it a few times, nods, and sheathes it.
 - Level 5: Shocked at the brazenness and cruelty of the conspiracy of he's discovered, Roarke resolves to keep following his Master's footsteps for the time being and understand what happened to him...no sooner does he think this to himself before he hears multiple explosions and looks out of his apartment view to see the slums of Sector O burning. Roarke feels a burning desire to help, and to see what happened and rushes to the area. It's bad. It's damn near nonsensical. A force of orcish mercenaries and androids are burning down tents and shacks and killing anyone that gets in their way. It's almost comically evil. Roarke feels his body get hot. Electric. The Storm fills Roarke's mind and body, and he rushes into the fray. Roarke slashes across the slums like a hurricane and kills all of the mercs and machines in an effort to protect the people from further loss of life and property. Covered in blood and oil, Roarke is shocked at his core by what's happening. Not the violence, he's done his share of dirt, but never at the expense of civilians and everyday people trying to get by. It's the raw suffering around him. The cruelty of the attack. A female orc rushes out and hugs him and thanks him crying. He's never been thanked like this before. Especially for wiping out a small army. It feels good. Roarke has a lot to think about after this.
 
 #### Initiation:
+NOTES TO SELF: I'm sort of lost on where to go with the plot from here. Who is behind the conspiracy? Why? 
+Some thoughts: The culprits are a coalition of humans, elves, and orcs with the intentions of culling the poor and worthless of their tribes to curb overpopulation on the Western Continent and turn a profit redeveloping the land they seize. 
+MORE THOUGHTS: What if the villain was sort of a foil to Roarke? Sees no value in art or beauty, purely focused on results, power, and profit. Maybe he/she has a similar background to Roarke as well? But with a different point of view. The kind of person Roarke very well could have been without the influence of his mother, his master, and Miranda. 
+
+- Level 6:
+- Level 7:
+- Level 8:
 
 #### Return:
+- Level 9:
+- Level 10:
 
 
 ### Gameplay
