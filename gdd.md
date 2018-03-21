@@ -28,12 +28,30 @@ A hardcore tactical action game where the primary goal is to use Roarke's dashin
 - Because of her outlook and her pragmatism, she's formed a bond with Roarke despite his heritage due to his intelligence and skill having saved her life multiple times.
 - Enjoys drinking with Roarke, and discussing fine art with him as he has viewpoint and an attention for detail that makes for good conversation.
 
+#### Marcus Nihilus
+- The Antagonist, and leader of the Conspiracy.
+- A no-nonsense, middle-aged swordsman. Only cares for pragmatism and results. Thinks art is a waste of time and energy.
+- Thinks the great experiment of the Western Continent, the effort to bring all of the world's races together in one place to be free and express themselves as they will, to be a grave mistake and waste of energy, and seeks to start things over. 
+
+
 #### The Orcs and Half-Orcs of 'O' Sector
 #### Androids & Golems
 #### Elves
 #### Humans
 #### Aliens (Intergalactic and Interdimensional)
 #### Immortals (Gods, Old Ones, high level magical beings, Emperor-class AIs)
+  
+##### The God of Storms
+  - A patron deity of the Orcs. Holds dominion over lightning, wind, and storms.
+  - Invoked by sailors, survivalists, shaman, and martial artists.
+  
+##### The God of War
+  - Another patron deity of the Orcs. Holds dominion over warfare, martial skill, and strategy.
+  - Most invoked by soldiers, officers, martial artists.
+
+##### The God of Stars
+  - A patron deity of the Elves. Holds dominion over light, stars, fire, and plasma.
+  - Frequently invoked by mages, scientists, artificers.
 
 
 ### Story 
