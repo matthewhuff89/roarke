@@ -50,8 +50,8 @@ A hardcore tactical action game where the primary goal is to use Roarke's dashin
   - Most invoked by soldiers, officers, martial artists.
 
 ##### The God of Stars
-  - A patron deity of the Elves. Holds dominion over light, stars, fire, and plasma.
-  - Frequently invoked by mages, scientists, artificers.
+  - A patron deity of the Elves. Holds dominion over light, stars, plasma, and creativity.
+  - Frequently invoked by mages, scientists, artificers, and artists.
 
 
 ### Story 
