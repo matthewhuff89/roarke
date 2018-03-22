@@ -32,6 +32,7 @@ A hardcore tactical action game where the primary goal is to use Roarke's dashin
 - The Antagonist, and leader of the Conspiracy.
 - A no-nonsense, middle-aged swordsman. Only cares for pragmatism and results. Thinks art is a waste of time and energy.
 - Thinks the great experiment of the Western Continent, the effort to bring all of the world's races together in one place to be free and express themselves as they will, to be a grave mistake and waste of energy, and seeks to start things over. 
+- The great reveal about Marcus: He's possessed by a Wrath demon born from the energy and trauma of his past, and wants to wipe out civilization as an expression of his pain. The Conspiracy seems cruel, hateful, and illogical, because it was born from a place of hate and insanity.
 
 
 #### The Orcs and Half-Orcs of 'O' Sector
@@ -39,6 +40,12 @@ A hardcore tactical action game where the primary goal is to use Roarke's dashin
 #### Elves
 #### Humans
 #### Aliens (Intergalactic and Interdimensional)
+#### Astral Beings
+##### Demons
+  - Born of the thought and emotional energy of living mortals.
+  - Can be benevolent, orderly beings, or cruel, chaotic monsters.
+  - They are simply the manifestation of the emotions of the populace.
+
 #### Immortals (Gods, Old Ones, high level magical beings, Emperor-class AIs)
   
 ##### The God of Storms
