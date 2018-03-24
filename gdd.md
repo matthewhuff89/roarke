@@ -117,7 +117,7 @@ NOTES TO SELF: I'm sort of lost on where to go with the plot from here. Who is b
 Some thoughts: The culprits are a coalition of humans, elves, and orcs with the intentions of culling the poor and worthless of their tribes to curb overpopulation on the Western Continent and turn a profit redeveloping the land they seize. 
 MORE THOUGHTS: What if the villain was sort of a foil to Roarke? Sees no value in art or beauty, purely focused on results, power, and profit. Maybe he/she has a similar background to Roarke as well? But with a different point of view. The kind of person Roarke very well could have been without the influence of his mother, his master, and Miranda. 
 
-- Level 6:
+- Level 6: Roarke spends some more time reading his master's journal and comes across mention of a man named 'Marcus Nihilus'. What a weird name. He reaches out to his network and is given a location to check out. Naturally, our hero is ambushed by a team of android swordfighters. 
 - Level 7:
 - Level 8:
 
