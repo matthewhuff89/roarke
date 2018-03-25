@@ -172,6 +172,63 @@
             }
         },
         {
+            "Key": "686030c7-8240-4392-bbbd-ea55faf94834",
+            "Value": {
+                "id": "19293c6a-5214-491b-b731-0b16f761f829",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_roarke_run_down\/s_roarke_run_down.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "696565de-7653-40ce-9700-a003ca855be8",
+            "Value": {
+                "id": "dc79cb31-668d-47ef-af06-71f2d9957873",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_Enemy\/o_Enemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "73bcf813-caeb-45af-8065-835201db4597",
+            "Value": {
+                "id": "a1cd7c1a-1f88-4b42-bcf5-b78e66c176b1",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_Roarke\/o_Roarke.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7af08afd-8dd7-49ee-83d7-566315ee85b1",
             "Value": {
                 "id": "78830728-72bd-4cca-a5be-527eb5d1f895",
@@ -262,8 +319,27 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/room0\/room0.yy",
+                "resourcePath": "rooms\/the_battlefield\/the_battlefield.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "9721a2d6-da62-4d13-a17b-37ba11d547e5",
+            "Value": {
+                "id": "d7ceb9b9-7aac-47e5-b743-0255fc965a2e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_roarke_run_right\/s_roarke_run_right.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -283,6 +359,25 @@
                 ],
                 "resourcePath": "views\/97676f09-ccfd-4c2e-91b4-8eac5dc86d20.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9d8a4211-b3a8-418a-a629-8d367fada588",
+            "Value": {
+                "id": "403b93ed-8b40-40fe-b83c-e717e135ce3f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_roarke_run_up\/s_roarke_run_up.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

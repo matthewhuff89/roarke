@@ -1,6 +1,6 @@
 
 {
-    "name": "room0",
+    "name": "the_battlefield",
     "id": "954fa584-23a4-4945-9025-ec5ea9510600",
     "creationCodeFile": "",
     "inheritCode": false,
