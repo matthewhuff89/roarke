@@ -75,6 +75,12 @@ Almost singlehandedly changes perception of orcish in the eyes of the West throu
 - Liberation (in the literal and spiritual sense)
 - Acceptance (of self, and by society)
 - The meaning of a Champion
+#### - Qualities of a Gentleman and a Warrior:
+    Integrity
+    Dignity
+    Resilience
+    Diligence
+    Intelligence
 
 ### Story Progression
 The game starts right in the action. 
