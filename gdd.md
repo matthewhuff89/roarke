@@ -185,6 +185,7 @@ MORE THOUGHTS: What if the villain was sort of a foil to Roarke? Sees no value i
 - 6. To adjust for Roarke's new power and technical efficiency, there will be more situations that require Advanced Techniques (Double/Triple distance strikes, Delta Strikes, Solar Flares) 
 - 7. Unlocks a power shot for his arm blaster
 
+Random note: I just realized Roarke plays a lot like Yasuo from League of Legends. *shrug*
 
 
 ##### Level Timer (Maybe)
