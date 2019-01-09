@@ -258,3 +258,4 @@ Random note: I just realized Roarke plays a lot like Yasuo from League of Legend
 ### Other Ideas
 - Time attack mode?
 - Survival mode (you vs a steadily increasing amount of mooks in a battle arena made for this mode)
+- Challenge Mode: Maybe make this a PART of the game in a way. Roarke trains in between his encounters with the Conspiracy, and the skills you gain will help you fight better in the proper Story mode. Maybe even require the player to complete Visualization Challenges to unlock further parts of the Story. 
