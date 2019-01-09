@@ -4,7 +4,7 @@
 A hardcore tactical action game where the primary goal is to use Roarke's dashing slash to cut your way through levels as quickly and efficiently as possible.
 
 ## Short Pitch
-Sonic The Hedgehog, Samurai Jack Meets Nuclear Throne
+Sonic The Hedgehog, Samurai Jack Meets Nuclear Throne and Helldivers (same perspective on 3D characters)
 
 ## Characters
 #### Roarke 'Windscar'
