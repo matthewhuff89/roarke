@@ -3,6 +3,9 @@
 ## Project Description
 A hardcore tactical action game where the primary goal is to use Roarke's dashing slash to cut your way through levels as quickly and efficiently as possible.
 
+## Short Pitch
+Sonic The Hedgehog, Samurai Jack Meets Nuclear Throne
+
 ## Characters
 #### Roarke 'Windscar'
 - The protagonist. A bodyguard/enforcer with a passion and talent for fencing and swordsmanship. 
