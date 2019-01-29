@@ -121,18 +121,11 @@ Roarke stands up, draws it, swings it a few times, nods, and sheathes it.
 - Level 4: Roarke goes to his master's house and breaks in...he investigates for a bit, and finds a secret room, that seems to have been made for one of his Adepts to find in case of his passing. Roarke discovers his master had been tracking and battling a conspiracy seeking to destroy Sector O to make room for new development and greatly weaken if not outright destroy the Orcish community in the City. A move that would likely affect Orcish life for the whole continent as many orcs take what they earn in the City and send it to their families or otherwise inspire others in the land. As Roarke takes his master's journal, he hears an explosion and smells smokes. His senses perk up and he feels the presence of assault mechs and golems in the building. He fights his way out of the burning building before it's completely demolished, along with the attached Dojo.
 - Level 5: Shocked at the brazenness and cruelty of the conspiracy of he's discovered, Roarke resolves to keep following his Master's footsteps for the time being and understand what happened to him...no sooner does he think this to himself before he hears multiple explosions and looks out of his apartment view to see the slums of Sector O burning. Roarke feels a burning desire to help, and to see what happened and rushes to the area. It's bad. It's damn near nonsensical. A force of orcish mercenaries and androids are burning down tents and shacks and killing anyone that gets in their way. It's almost comically evil. Roarke feels his body get hot. Electric. The Storm fills Roarke's mind and body, and he rushes into the fray. Roarke slashes across the slums like a hurricane and kills all of the mercs and machines in an effort to protect the people from further loss of life and property. Covered in blood and oil, Roarke is shocked at his core by what's happening. Not the violence, he's done his share of dirt, but never at the expense of civilians and everyday people trying to get by. It's the raw suffering around him. The cruelty of the attack. A female orc rushes out and hugs him and thanks him crying. He's never been thanked like this before. Especially for wiping out a small army. It feels good. Roarke has a lot to think about after this.
 
-#### Initiation:
-NOTES TO SELF: I'm sort of lost on where to go with the plot from here. Who is behind the conspiracy? Why? 
-Some thoughts: The culprits are a coalition of humans, elves, and orcs with the intentions of culling the poor and worthless of their tribes to curb overpopulation on the Western Continent and turn a profit redeveloping the land they seize. 
-MORE THOUGHTS: What if the villain was sort of a foil to Roarke? Sees no value in art or beauty, purely focused on results, power, and profit. Maybe he/she has a similar background to Roarke as well? But with a different point of view. The kind of person Roarke very well could have been without the influence of his mother, his master, and Miranda. 
+- Level 6: Roarke chases the Conspiracy to an island off the coast. He's ambushed and grievously wounded. An old priest finds him and nurses his wounds and talks to him about allowing, self-acceptance, and surrender. Roarke passes out and finds himself in another plane speaking with the God of Stars about what he's learned, and who he is. Pleased with Roarke's style and philosophy, he sends him back to the waking world. After Roarke awakens a massive beam of light strikes him and levitates him. His augmented arm warps and glows and runes appear all over it. His sword's blade turns into a contained beam of light. Power, and energy, and life courses through his body. At that moment, the Conspiracy attacks the Priest's little chapel and Roarke repels them with his new powers. Shortly after, Miranda arrives in a transport to tkae him home, and brief on what she's discovered about the Conspiracy and it's leader, Marcus...and most importantly, where to find them.
 
-- Level 6: Roarke spends some more time reading his master's journal and comes across mention of a man named 'Marcus Nihilus'. What a weird name. He reaches out to his network and is given a location to check out. Naturally, our hero is ambushed by a team of android swordfighters. 
-- Level 7:
-- Level 8:
+- Level 7: Roarke assaults the Conspiracy's HQ. It has 5 floors and he joyously, with a clear mind and heart, wipes out everyone who tries to stop him as he climbs up to the top to confront "Marcus". They engage and battle. Roarke wins. And let's out a mighty roar that echoes across Sector O, and his people roar with him.
 
-#### Return:
-- Level 9:
-- Level 10:
+END TITLES
 
 
 ### Gameplay
@@ -176,6 +169,7 @@ MORE THOUGHTS: What if the villain was sort of a foil to Roarke? Sees no value i
 - When Roarke clears out an encounter in one flowing movement (no stopping, or without running out the combo timer), all of the enemies fall apart at the same time (think the Bride slicing up all those dudes in Kill Bill, then striking her blade to cease it's vibration and then everyone falls at the same time)
 - I think this deserves a reward. This feeling right here is what all players of *Roarke* should seek. I want to encourage this behavior whenever possible.
 - I'll think about what the reward for a Perfect Storm should be.
+- For a bit of flavor, whichever God is currently backing Roarke should give a voice over showing their approval of his mastery. Whether it's the God of Storms or the God of Stars.
 
 ##### Roarke 'Solarstorm'/'Starslasher'/'Starstorm' (This is just theorycrafting)
 - The final chapters of the game will see Roarke adopting a new title to go along with a newly acquired power. The elves' God of Stars blesses Roarke at the behest of Miranda, and grants him access to the Solar element and a starsaber.
